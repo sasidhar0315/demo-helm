@@ -1,0 +1,4 @@
+image:
+  repository: 189696722440.dkr.ecr.ap-south-1.amazonaws.com/demo-app
+     # e.g., 123456789.dkr.ecr.ap-south-1.amazonaws.com/demo-app
+  tag: latest
